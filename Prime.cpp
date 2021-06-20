@@ -19,6 +19,6 @@ int prime(int n)
 int main()
 {
 
-    cout << prime(13);
+    cout << prime(29);
     return 0;
 }

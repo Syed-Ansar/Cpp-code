@@ -2,6 +2,7 @@
 using namespace std;
 
 // Naive Solution with O min(a,b) complexity
+
 // int gcdHcf(int a, int b)
 // {
 //     int ans = min(a, b);

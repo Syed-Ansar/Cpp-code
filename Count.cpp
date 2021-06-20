@@ -15,6 +15,6 @@ int countDigit(long long int x)
 
 int main()
 {
-    cout << countDigit(2004889080908908880);
+    cout << countDigit(200488);
     return 0;
 }
